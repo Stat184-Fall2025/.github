@@ -4,3 +4,5 @@ This GitHub organization serves as a place where students in Stat 184 can develo
 This course makes use of the PCIP System: Plan-Code-Improve-Polish.
 
 ![PCIP Logo](pcip_logo.jpg)
+
+added one liner
